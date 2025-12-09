@@ -1,0 +1,189 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "Fasket | Groceries & essentials delivered across Badr City",
+    "description": "Fasket is a full online supermarket for Badr City, Cairo—order groceries and daily essentials via the app or web with fast delivery, ongoing offers, and transparent prices.",
+    "keywords": "Fasket, Badr City delivery, groceries, supermarket, fast delivery Egypt, PWA, Android app",
+    "ogTitle": "Fasket - Order everything in minutes",
+    "ogDescription": "Shop groceries and essentials with Fasket on mobile or web. Fast delivery in Badr City with clear prices and Arabic/English support.",
+    "ogImage": "/images/og-image.webp"
+  },
+  "navigation": {
+    "brand": "Fasket",
+    "download": "Open app",
+    "whatsapp": "WhatsApp",
+    "links": [
+      { "id": "hero", "label": "Home" },
+      { "id": "why", "label": "Why Fasket" },
+      { "id": "steps", "label": "How it works" },
+      { "id": "features", "label": "App features" },
+      { "id": "reviews", "label": "Testimonials" },
+      { "id": "faq", "label": "FAQ" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "language": {
+    "ar": "العربية",
+    "en": "English"
+  },
+  "hero": {
+    "eyebrow": "Built for Badr City",
+    "title": "Groceries and daily needs in one fast app",
+    "subtitle": "Fasket is a full online supermarket for Badr City, Cairo—order everything you need via app or PWA with ongoing offers, clear prices, and an easy Arabic/English experience.",
+    "location": "Serving every district in Badr City",
+    "metricsLabel": "Service metrics",
+    "sliderLabel": "Fasket app screens",
+    "prevLabel": "Previous screen",
+    "nextLabel": "Next screen",
+    "metrics": [
+      { "label": "Avg delivery", "value": "35–45 min" },
+      { "label": "Customer rating", "value": "4.8 / 5" },
+      { "label": "Coverage", "value": "12+ districts" }
+    ],
+    "cta": {
+      "androidPrimary": "Download App",
+      "pwaPrimary": "Use Fasket now (PWA)",
+      "desktopPrimary": "Use Fasket now (PWA)",
+      "iosStore": "App Store (coming soon)",
+      "whatsapp": "WhatsApp support",
+      "pwaShort": "Open Web App",
+      "contact": "Talk to support"
+    },
+    "screens": [
+      { "alt": "Fasket home screen", "src": "/images/Home.webp" },
+      { "alt": "Fasket login screen", "src": "/images/login.webp" },
+      { "alt": "Fasket cart screen", "src": "/images/cart.webp" },
+      { "alt": "Fasket checkout screen", "src": "/images/checkout.webp" },
+      { "alt": "Fasket order details screen", "src": "/images/orderDetails.webp" },
+      { "alt": "Fasket order success screen", "src": "/images/orderSuccess.webp" },
+      { "alt": "Fasket profile screen", "src": "/images/profile.webp" }
+    ]
+  },
+  "why": {
+    "title": "Why Fasket",
+    "subtitle": "Aligned with the same features inside the mobile app",
+    "items": [
+      { "icon": "zap", "title": "Fast delivery", "description": "Priority dispatch and live ETA that matches the app tracker." },
+      { "icon": "badge-dollar-sign", "title": "Clear prices", "description": "Transparent pricing with the same promos you see in-app." },
+      { "icon": "leaf", "title": "Fresh items", "description": "Cold-chain friendly delivery for produce and dairy." },
+      { "icon": "headphones", "title": "Live support", "description": "Human support in Arabic or English whenever you need it." },
+      { "icon": "sparkles", "title": "Smooth checkout", "description": "One-tap reorder, saved addresses, and secure payments." },
+      { "icon": "map-pin", "title": "City-wide coverage", "description": "From District 1 to the Industrial Zone, we deliver everywhere." }
+    ]
+  },
+  "steps": {
+    "title": "4 simple steps",
+    "subtitle": "From browse to delivery in minutes",
+    "items": [
+      { "title": "Find what you need", "description": "Search groceries and everyday essentials with smart filters." },
+      { "title": "Add to basket", "description": "See stock status and honest fees before you pay." },
+      { "title": "Pick payment", "description": "Card, wallet, or cash on delivery—mirroring the mobile app." },
+      { "title": "Track delivery", "description": "Follow your rider live until the order reaches your door." }
+    ]
+  },
+  "appFeatures": {
+    "title": "App features",
+    "subtitle": "Built to match the Fasket mobile experience",
+    "items": [
+      { "icon": "smartphone", "title": "One-handed UI", "description": "Thumb-friendly layout with bilingual flows." },
+      { "icon": "bell", "title": "Instant updates", "description": "Push-style alerts for order status, ETA, and promos." },
+      { "icon": "tag", "title": "Daily offers", "description": "Local discounts refreshed every morning." },
+      { "icon": "gift", "title": "Rewards", "description": "Earn and redeem points just like inside the app." },
+      { "icon": "clock", "title": "Order history", "description": "Repeat your last basket without rebuilding it." },
+      { "icon": "shield-check", "title": "Secure payments", "description": "PCI-ready checkout with cash alternative." }
+    ]
+  },
+  "appShowcase": {
+    "title": "See the Fasket app",
+    "subtitle": "Smooth, bilingual, and fast—exactly like the mobile experience",
+    "description": "Scroll through the real app screens below.",
+    "note": "Screens shown are real app captures.",
+    "cta": "Explore the PWA"
+  },
+  "products": {
+    "title": "Fresh picks & best sellers",
+    "subtitle": "Handpicked grocery essentials for Badr City",
+    "items": [
+      { "title": "Fresh produce", "description": "Daily-picked fruits and vegetables.", "image": "/images/products/produce.webp" },
+      { "title": "Dairy & cheese", "description": "Chilled favorites ready to deliver.", "image": "/images/products/dairy.webp" },
+      { "title": "Bakery & snacks", "description": "Pastries, bread, and quick bites.", "image": "/images/products/bakery.webp" },
+      { "title": "Beverages", "description": "Juices, coffee, tea, and soft drinks.", "image": "/images/products/beverages.webp" }
+    ]
+  },
+  "testimonials": {
+    "title": "Loved by Badr City customers",
+    "subtitle": "Real stories from daily users",
+    "items": [
+      { "name": "Mohamed H.", "role": "District 3", "quote": "Delivery is consistently on time and support replies fast. My go-to app now.", "rating": 5 },
+      { "name": "Sara K.", "role": "District 7", "quote": "Fresh groceries and a clear Arabic interface. The PWA feels just like the app.", "rating": 5 },
+      { "name": "Omar Y.", "role": "Industrial Zone", "quote": "We rely on Fasket for office groceries—transparent prices and quick riders.", "rating": 4 }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need before placing an order",
+    "items": [
+      { "q": "Do you cover my neighborhood?", "a": "Yes. Fasket delivers across all Badr City districts including the industrial zone." },
+      { "q": "Can I pay cash on delivery?", "a": "Cash on delivery and secure card payments are both available at checkout." },
+      { "q": "How fast is delivery?", "a": "Average delivery time is 35–45 minutes depending on your area and basket size." },
+      { "q": "Is the app bilingual?", "a": "Yes. Switch between Arabic and English instantly from the top of the page." },
+      { "q": "Do you offer discounts?", "a": "Daily promo codes and loyalty rewards are available inside the app." },
+      { "q": "How do I contact support?", "a": "Use the WhatsApp button or call the hotline inside the app for live help." }
+    ]
+  },
+  "cta": {
+    "title": "Ready to order with Fasket?",
+    "subtitle": "Open the PWA now or install the Android app to shop in minutes.",
+    "primary": "Use Fasket now (PWA)",
+    "secondary": "Download App",
+    "tertiary": "WhatsApp support",
+    "statsLabel": "Fasket impact",
+    "stats": [
+      { "label": "Avg rating", "value": "4.8" },
+      { "label": "Orders delivered", "value": "50K+" },
+      { "label": "Minutes saved", "value": "2M+" }
+    ]
+  },
+  "footer": {
+    "tagline": "Smart shopping and rapid delivery designed for Badr City.",
+    "address": "Badr City, Cairo, Egypt",
+    "email": "hello@fasket.shop",
+    "phone": "+20 100 123 4567",
+    "linksTitle": "Quick links",
+    "links": [
+      { "label": "Home", "target": "hero" },
+      { "label": "How it works", "target": "steps" },
+      { "label": "Offers", "target": "features" },
+      { "label": "FAQ", "target": "faq" }
+    ],
+    "appLinksTitle": "Get the app",
+    "newsletter": "Get offers by email",
+    "newsletterPlaceholder": "you@example.com",
+    "openWeb": "Open Web App",
+    "downloadAndroid": "Download on Android",
+    "contactTitle": "Contact & support",
+    "socialTitle": "Follow Fasket",
+    "legal": "Privacy & Terms",
+    "copyright": "© 2025 Fasket. All rights reserved."
+  },
+  "contact": {
+    "phone": "+20 100 123 4567",
+    "whatsapp": "+20 100 123 4567",
+    "whatsappLink": "https://wa.me/201001234567",
+    "email": "hello@fasket.shop",
+    "city": "Badr City, Cairo",
+    "pwa": "https://fasket.shop/app",
+    "playStore": "https://play.google.com/store/apps/details?id=com.fasket.app"
+  },
+  "aria": {
+    "primaryNav": "Primary navigation",
+    "languageSwitcher": "Choose language",
+    "heroMetrics": "Fasket performance metrics",
+    "newsletter": "Newsletter signup",
+    "testimonial": "Customer testimonial",
+    "ratingStars": "stars"
+  },
+  "whatsapp": {
+    "label": "Chat with us on WhatsApp"
+  }
+}
